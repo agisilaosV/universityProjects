@@ -1,9 +1,6 @@
 //Mpekos Dimitrios AM:2108
 //Vasiliadis Agisilaos AM:2023
-//produce middle code
-//PARAKALOUME NA DIAVASTEI TO README   DISTIXWS LEITOURGEI MONO GIA 1 ARXEIO KAI OXI GIA 5
 //To programma einai grammeno se c++
-//Leitourgoun ta pada swsta ektos apo tin exit
 
 /*
 Gia tin paragwgi ektelesimou:		g++ middle.cpp
